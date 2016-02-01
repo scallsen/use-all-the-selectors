@@ -1,3 +1,13 @@
 body{
   background-color: #fdf6e3;
 }
+/* =typography */
+  header, footer{
+    font-size: 1.5rem;
+  }
+
+  nav ul{
+    font-family: sans-serif;
+  }
+
+  
